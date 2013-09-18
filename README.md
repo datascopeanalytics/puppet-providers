@@ -1,4 +1,4 @@
-puppet-package-providers
+puppet-providers
 ========================
 
 This puppet module can be used to install a collection of non-native
