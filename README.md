@@ -1,4 +1,6 @@
 puppet-package-providers
 ========================
 
-puppet module for non-standard package managers like pip, npm, etc
+This puppet module can be used to install a collection of non-native
+package managers. This has been designed for Ubuntu but can easily be
+extended to other operating systems as well. 
